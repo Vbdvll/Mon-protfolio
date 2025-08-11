@@ -1,0 +1,18 @@
+# Environnement virtuel
+venv/
+env/
+ENV/
+.venv/
+.vscode/
+
+# Migrations (Django, Flask, etc.)
+migrations/
+*/migrations/
+__pycache__/
+
+# Base de données
+*.sqlite3
+db.sqlite3
+*.db
+*.bak
+*.sql
